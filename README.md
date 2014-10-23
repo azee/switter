@@ -1,4 +1,4 @@
 switter
 =======
 Blog service example. 
-Using Jersey MVC and Hibernate.
+Using Jersey MVC, Freemarker and Hibernate.
